@@ -1,5 +1,0 @@
-package q1;
-
-public class Dinheiro extends FormaPagamento {
-    int quantidade = 1000;
-}
