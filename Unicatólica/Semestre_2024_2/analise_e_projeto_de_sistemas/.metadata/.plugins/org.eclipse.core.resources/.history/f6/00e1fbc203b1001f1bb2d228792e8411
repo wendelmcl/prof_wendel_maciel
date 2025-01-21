@@ -1,0 +1,32 @@
+package controller;
+
+import view.ClienteView;
+
+import java.util.ArrayList;
+import java.util.List;
+import model.Cliente;
+
+public class ClienteController {
+	private List<Cliente> clientes;
+	private ClienteView view;
+	
+	public ClienteController(ClienteView view) {
+		this.clientes = new ArrayList<>();
+		this.view = view;
+	}
+	
+	public void iniciar() {
+		int opcao;
+		do {
+			opcao = view.exibirMenu();
+			switch(opcao) {
+				case 1:
+					adicionarCliente();
+				
+			}
+			
+		}while(opcao != 5);
+		
+		
+	}
+}

@@ -1,0 +1,5 @@
+Para revisar o conteúdo prático sobre expressões regulares, implemente o exercício abaixo.
+Crie expressões regulares para extrair as seguintes informações do texto abaixo (use a função findall):
+- Números.
+- CEPs.
+- URLs.

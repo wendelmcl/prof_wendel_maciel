@@ -1,0 +1,31 @@
+package q1;
+
+public class CartaoCredito extends FormaPagamento {
+	public String getCodigoSeguranca() {
+		return codigoSeguranca;
+	}
+
+	public void setCodigoSeguranca(String codigoSeguranca) {
+		this.codigoSeguranca = codigoSeguranca;
+	}
+
+	public String getDataVencimento() {
+		return dataVencimento;
+	}
+
+	public void setDataVencimento(String dataVencimento) {
+		this.dataVencimento = dataVencimento;
+	}
+
+	private String numeroCartao;
+    private String codigoSeguranca;
+    private String dataVencimento;
+	
+	public int getNumeroCartão() {
+		return numeroCartao;
+	}
+
+	public void setNumeroCartão(int numeroCartao) {
+		this.numeroCartao = numeroCartao;
+	}
+}

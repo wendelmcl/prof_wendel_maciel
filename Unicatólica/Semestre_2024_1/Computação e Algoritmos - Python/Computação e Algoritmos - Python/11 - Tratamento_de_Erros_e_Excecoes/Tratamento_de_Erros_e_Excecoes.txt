@@ -1,0 +1,6 @@
+- NameError: Variável não foi definida.
+- TypeError: Tipos de dados incompatíveis.
+- RuntimeError: Erro de Execução.
+- SyntaxError: Sintaxe digitada é inválida e não reconhecida pelo interpretador.
+- ZeroDivisionError: Divisão por Zero.
+- IndexError: Índice está fora da coleção.

@@ -1,0 +1,38 @@
+package q1;
+import java.util.ArrayList;
+import java.util.Scanner;
+public class Execucao {
+
+	public static void main(String[] args) {
+		
+		
+		while(true){
+			System.out.println("Qual o método de pagamento?");
+			System.out.println("CRÉDITO {1}");
+			System.out.println("DÉBITO {2}");
+			System.out.println("BOLETO {3}");
+			System.out.println("DINHEIRO {4}");
+			System.out.println("CANCELAR {0}");
+			int option = sc.nextInt();
+			
+			switch(option){
+				case 1: //CREDITO
+					for(int i = 0; i < 1; i++){
+						
+					}
+					
+				case 2: //DEBITO 
+					
+				case 3: //BOLETO
+				
+				case 4://DINHEIRO
+					
+				default:
+					System.out.println("Forma de Pagamento Inválida!");
+			}
+		}
+		
+		
+	}
+
+}

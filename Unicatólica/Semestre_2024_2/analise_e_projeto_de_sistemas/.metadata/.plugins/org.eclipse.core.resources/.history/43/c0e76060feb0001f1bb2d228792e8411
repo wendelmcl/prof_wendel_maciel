@@ -1,0 +1,17 @@
+package view;
+
+import java.util.Scanner;
+
+public class ClienteView {
+	Scanner sc = new Scanner(System.in);
+	
+	public int exibirMenu() {
+		System.out.println("=== MENU ===");
+		System.out.println("1 - Adicionar cliente: ");
+		System.out.println("2 - Listar cliente: ");
+		System.out.println("3 - Atualizar cliente: ");
+		System.out.println("4 - Deletar cliente: ");
+		System.out.println("5 - Sair ");
+		
+	}
+}

@@ -1,0 +1,5 @@
+package q1;
+
+public class CartaoDebito extends FormaPagamento{
+	private String codSeguranca;
+}

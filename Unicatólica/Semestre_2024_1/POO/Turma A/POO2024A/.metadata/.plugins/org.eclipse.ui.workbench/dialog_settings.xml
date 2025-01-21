@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma A\SINF072_33_20241-Programação Orientada a Objetos - Avaliação Parcial 02-12537\RÍLARI MAIA CASTELO _30639_assignsubmission_file_\Rilari.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma A\SINF072_33_20241-Programação Orientada a Objetos - Avaliação Parcial 02-12537\MARCOS FELIPE ARRUDA LIMA _30668_assignsubmission_file_\SEGUNDA CHAMADA - MARCOS FELIPE ARRUDA LIMA.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\VICTOR PINHEIRO DE LIMA _30360_assignsubmission_file_\ap2_Victor.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\SAMUEL BRITO DA SILVA _30357_assignsubmission_file_\SamuelAP2.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\RONALD KLAIVE BORGES DA SILVA _30356_assignsubmission_file_\Ronald Klaive Borges da Silva.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\RAWENNE DA SILVA LEITE _30370_assignsubmission_file_\AP2.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\RAFAEL ÂNGELO MEIRELES AZEVEDO _30367_assignsubmission_file_\Ap2POOB.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\PABLO SAMUEL OLIVEIRA DO NASCIMENTO _30361_assignsubmission_file_\PabloSamuel.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\LUIS FELIPE XAVIER FALCÃO _30369_assignsubmission_file_\LuisFelipe.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\JÚLIO SÁRNEY DA SILVA SILVEIRA _30355_assignsubmission_file_\juliosarney.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\JOSE TAILAN DA SILVA BARBOSA _30364_assignsubmission_file_\ap2_tailan.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\JOÃO VICTOR DO NASCIMENTO SILVA _30363_assignsubmission_file_\JoãoVictorDoNascimentoSilva-ap2.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\JEFERSON IURE SAMUEL DE MATOS _30362_assignsubmission_file_\prova.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\HENRIQUE DA SILVA MELO _30353_assignsubmission_file_\Henrique.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\ANTONIO MATHEUS COLARES SALDANHA _30368_assignsubmission_file_\Ap2.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma B\SINF072_33_20241.-Programação Orientada a Objetos - Avaliação Parcial 02-12538\ADRIAN LUCAS PINHEIRO SILVA _30366_assignsubmission_file_\Ap2.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma A\SINF072_33_20241-Programação Orientada a Objetos - Avaliação Parcial 02-12537\WHEVERSON DE ABREU LIMA _30146_assignsubmission_file_\wheversonn_ap2q.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma A\SINF072_33_20241-Programação Orientada a Objetos - Avaliação Parcial 02-12537\RUAN PABLO SARAIVA RIPARDO _30139_assignsubmission_file_\AP2RUANPABLO.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma A\SINF072_33_20241-Programação Orientada a Objetos - Avaliação Parcial 02-12537\RAUL FERREIRA HOLANDA _30167_assignsubmission_file_\AP2 POO 11-06.zip"/>
+			<item value="D:\Google Drive\UNICATOLICA\Semestre_2024_1\Presenciais\POO - Programação Orientada a Objetos\Turma A\SINF072_33_20241-Programação Orientada a Objetos - Avaliação Parcial 02-12537\PEDRO VICTOR DA SILVA LIMA _30138_assignsubmission_file_\Pedro Victor da Silva Lima.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\wende\OneDrive\Área de Trabalho\Aula11_23042024.zip"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,13 @@
+package q1;
+
+public class CartaoCredito extends FormaPagamento {
+	private int numeroCartão;
+
+	public int getNumeroCartão() {
+		return numeroCartão;
+	}
+
+	public void setNumeroCartão() {
+		this.numeroCartão = numeroCartão;
+	}
+}

@@ -1,0 +1,15 @@
+package q1;
+import java.util.ArrayList;
+
+import java.util.Scanner;
+public class Execucao {
+
+	public static void main(String[] args) {
+		ArrayList<FormaPagamento> fp = new ArrayList<>();
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+	}
+
+}

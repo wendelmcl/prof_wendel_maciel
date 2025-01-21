@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;revisao3.Execucao3&apos; to &apos;Exemplo3&apos;&#x0D;&#x0A;- Original project: &apos;Aula08_02042024&apos;&#x0D;&#x0A;- Original element: &apos;revisao3.Execucao3&apos;&#x0D;&#x0A;- Renamed element: &apos;revisao3.Exemplo3&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Execucao3&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;revisao3{Execucao3.java[Execucao3" matchStrategy="1" name="Exemplo3" qualified="false" references="true" similarDeclarations="false" stamp="1712097544968" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,10 @@
+package q2;
+import java.util.ArrayList;
+
+public class Execucao {
+	public static void main(String[] args){
+		
+		ArrayList<> veiculos = new ArrayList<>();
+		
+	}
+}

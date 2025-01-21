@@ -1,0 +1,8 @@
+package controller;
+
+import view.ClienteView;
+
+public class ClienteController {
+	private List<Cliente> clientes;
+	private ClienteView view;
+}

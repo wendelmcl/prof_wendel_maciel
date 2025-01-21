@@ -1,0 +1,10 @@
+package main;
+
+public class Miain {
+
+	public static void main(String[] args) {
+		ClienteView = new ClienteView();
+		ClienteController clienteController = new ClienteController();
+
+	}
+}

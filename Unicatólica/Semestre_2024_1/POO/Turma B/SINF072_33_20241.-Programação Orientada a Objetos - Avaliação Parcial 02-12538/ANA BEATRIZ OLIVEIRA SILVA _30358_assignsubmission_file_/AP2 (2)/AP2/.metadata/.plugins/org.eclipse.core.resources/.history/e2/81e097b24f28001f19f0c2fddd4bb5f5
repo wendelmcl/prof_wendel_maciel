@@ -1,0 +1,83 @@
+package q1;
+
+public class CartaoCredito extends FormaPagamento {
+	private String numeroCartao;
+    private String codigoSeguranca;
+    private String dataVencimento;
+
+    public CartaoCredito(String numeroCartao, String codigoSeguranca, String dataVencimento) {
+        super("Cartão de Crédito");
+        this.numeroCartao = numeroCartao;
+        this.codigoSeguranca = codigoSeguranca;
+        this.dataVencimento = dataVencimento;
+    }
+    
+    public String getNumeroCartao() {
+		return numeroCartao;
+	}
+
+	public void setNumeroCartao(String numeroCartao) {
+		this.numeroCartao = numeroCartao;
+	}
+
+	public String getCodigoSeguranca() {
+		return codigoSeguranca;
+	}
+
+	public void setCodigoSeguranca(String codigoSeguranca) {
+		this.codigoSeguranca = codigoSeguranca;
+	}
+
+	public String getDataVencimento() {
+		return dataVencimento;
+	}
+
+	public void setDataVencimento(String dataVencimento) {
+		this.dataVencimento = dataVencimento;
+	}
+
+	public void processarPagamento() {
+
+    }
+
+    @Override
+    public String gerarRecibo() {
+        return "Recibo do pagamento com cartão de crédito";
+    }
+
+}
+
+
+
+abstract class FormaPagamento {
+    private String tipo;
+
+    public FormaPagamento(String tipo) {
+        this.tipo = tipo;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public abstract void processarPagamento();
+
+    public abstract String gerarRecibo();
+}
+
+
+    
+
+    @Override
+    public void processarPagamento() {
+        // Lógica para processar pagamento com cartão de crédito
+    }
+
+    @Override
+    public String gerarRecibo() {
+        // Lógica para gerar recibo de pagamento com cartão de crédito
+        return "Recibo do pagamento com cartão de crédito";
+    }
+}
+
+

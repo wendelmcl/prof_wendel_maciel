@@ -1,0 +1,14 @@
+package q1;
+
+public class CartaoDebito extends FormaPagamento{
+	
+	private String codSeguranca;
+
+	public String getCodSeguranca() {
+		return codSeguranca;
+	}
+
+	public void setCodSeguranca(String codSeguranca) {
+		this.codSeguranca = codSeguranca;
+	}
+}

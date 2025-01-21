@@ -1,0 +1,14 @@
+package q1;
+
+public class Dinheiro {
+	private double quantDinheiro;
+
+	public double getQuantDinheiro() {
+		return quantDinheiro;
+	}
+
+	public void setQuantDinheiro(double quantDinheiro) {
+		this.quantDinheiro = quantDinheiro;
+	}
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sobrecarga.Exemolo_Sobrecarga&apos; to &apos;Exemplo_Sobrecarga&apos;&#x0D;&#x0A;- Original project: &apos;Aula06_12032024&apos;&#x0D;&#x0A;- Original element: &apos;sobrecarga.Exemolo_Sobrecarga&apos;&#x0D;&#x0A;- Renamed element: &apos;sobrecarga.Exemplo_Sobrecarga&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Exemolo_Sobrecarga&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sobrecarga{Exemolo_Sobrecarga.java[Exemolo_Sobrecarga" matchStrategy="1" name="Exemplo_Sobrecarga" qualified="false" references="true" similarDeclarations="false" stamp="1710287616587" textual="false" version="1.0"/>
+</session>

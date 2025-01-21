@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="view.UsuarioViewGUI"/>
+    <fullyQualifiedTypeName name="controller.UsuarioController2"/>
+    <fullyQualifiedTypeName name="daointerface.UsuarioDAO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="model.Cliente"/>
+    <fullyQualifiedTypeName name="view.ClienteView"/>
+    <fullyQualifiedTypeName name="controller.ClienteController"/>
+</qualifiedTypeNameHistroy>

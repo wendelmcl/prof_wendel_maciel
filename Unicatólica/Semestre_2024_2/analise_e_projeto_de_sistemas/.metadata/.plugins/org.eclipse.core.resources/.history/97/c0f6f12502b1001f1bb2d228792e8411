@@ -1,0 +1,6 @@
+package controller;
+
+public class ClienteController {
+	private List<Cliente> clientes;
+	private ClienteView view;
+}
