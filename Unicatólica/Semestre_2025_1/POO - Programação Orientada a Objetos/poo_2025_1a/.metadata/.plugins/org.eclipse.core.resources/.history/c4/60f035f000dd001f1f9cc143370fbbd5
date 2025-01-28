@@ -1,0 +1,11 @@
+package primeiroProjetoJava;
+
+public class PrimeiraClasse {
+
+	public static void main(String[] args) {
+		int variavel = 10;
+		double v2 = 10.0;
+		String = "Olá";
+		
+	}
+}

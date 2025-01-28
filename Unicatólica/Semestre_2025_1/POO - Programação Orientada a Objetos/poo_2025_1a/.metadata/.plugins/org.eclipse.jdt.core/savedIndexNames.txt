@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/wendelmcl/eclipse-workspace/poo_2025_1a/.metadata/.plugins/org.eclipse.jdt.core
+3355469982.index
+1777056578.index
+3722408878.index
+1865797976.index

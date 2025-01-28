@@ -1,0 +1,14 @@
+package segundoProjetoJava;
+
+public class CalculadoraSimples {
+
+	public static void main(String[] args) {
+		double v1 = 0.0, v2 = 0.0, resultado = 0.0;
+		v1 = 100;
+		v2 = 20;
+		resultado = v1 + v2;
+		System.out.println("Soma: "+resultado);
+		resultado = v1 - v2;
+
+	}
+}
