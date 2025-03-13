@@ -18,12 +18,14 @@ int buscaBinaria(int primos[], int valor){
 
 int main(){
     int primos[] = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97};
-    int valor = 67;
+    int valor = 0;
+    cout << "Digite um valor: ";
+    cin >> valor;
     int resultado = buscaBinaria(primos, valor);
     if(resultado != -1){
-        cout << "O número " << valor << " é primo. Encontrado na posicao " << resultado << endl ;
+        cout << "O número " << valor << " é primo. Encontrado na posição " << resultado << "." << endl ;
     }else{
-        cout << "O número não foi encontrado." << endl;
+        cout << "O número " << valor << " não foi encontrado." << endl;
     }
 
     return 0;
