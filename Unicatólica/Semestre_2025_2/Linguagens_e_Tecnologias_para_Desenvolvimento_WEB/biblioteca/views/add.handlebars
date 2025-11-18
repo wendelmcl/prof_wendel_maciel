@@ -1,0 +1,36 @@
+<div id="add-form-container" class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">Cadastre o livro</h1>
+        </div>
+        <div id="form-box" class="col-md-12">
+            <h2>Preencha o dados abaixo para o cadastro do livro</h2>
+            <form action="/livro_rotas/add" method="POST">
+                <div class="form-group">
+                    <label for="title">
+                        <Table>Título do livro:</Table>
+                    </label>
+                    <input type="text" class="form-control" id="titulo" name="titulo"
+                        placeholder="Digite o título do livro" required>
+                    <small id="titleHelp" class="form-text text-muted">Preencha o título corretamente</small>
+                </div>
+                <div class="form-group">
+                    <label for="autor">
+                        <Table>Autor do livro:</Table>
+                    </label>
+                    <input type="text" class="form-control" id="autor" name="autor" placeholder="Digite o nome do autor"
+                        required>
+                </div>
+                <div class="form-group">
+                    <label for="date">
+                        <Table>Data de publicação:</Table>
+                    </label>
+                    <input type="text" class="form-control" id="anoPublicacao" name="anoPublicacao"
+                        placeholder="Digite a data de publicação" required>
+                </div>
+                <input type="hidden" name="new_livro" value="1">
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </div>
+    </div>
+</div>
