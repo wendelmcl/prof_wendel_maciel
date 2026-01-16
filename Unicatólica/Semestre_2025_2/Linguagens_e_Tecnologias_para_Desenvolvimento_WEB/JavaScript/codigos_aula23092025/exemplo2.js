@@ -1,0 +1,13 @@
+var numero = "10";
+console.log(typeof(numero));
+var inteiro = 10;
+var valor = 10.2;
+var mensagem = "texto";
+console.log(typeof(inteiro));
+console.log(typeof(valor));
+console.log(typeof(mensagem));
+console.log(typeof ("Olá mundo"));
+console.log(typeof ('Boa noite'));
+console.log(typeof (`teste`));
+console.log("Primeira linha \n Segunda linha.");
+console.log(`Multiplicação: ${5*3}`);

@@ -1,0 +1,13 @@
+var mensagem = "Olá mundo!!!";
+console.log(mensagem);
+var texto = "Mundo";
+console.log(texto.length);
+var numero = "10";
+var inteiro = parseInt(numero);
+console.log(inteiro);
+var l1 = "Boa";
+var l2 = "noite";
+console.log(l1 + l2);
+var texto = "Valor: ";
+var numero1 = 10;
+console.log(texto + numero1);

@@ -1,0 +1,10 @@
+console.log(typeof(true));
+console.log(typeof(false));
+console.log(10 > 2);
+console.log(5 > 200);
+console.log('Ana' != 'Ana');
+console.log(3 === '3');
+console.log(4 === 4);
+console.log(5 > 3 && 3 == 2);
+console.log(3 == 3 && "Ana" || false);
+console.log(!(!true && true));

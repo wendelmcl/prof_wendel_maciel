@@ -1,0 +1,13 @@
+.form-control::placeholder{
+    color: #808080;
+}
+
+.botao_lilas{
+    background-color: #9353FF;
+    height: 2.5rem;
+    width: 8rem;
+}
+
+.texto_facilidades{
+    color: #DAFF01;
+}

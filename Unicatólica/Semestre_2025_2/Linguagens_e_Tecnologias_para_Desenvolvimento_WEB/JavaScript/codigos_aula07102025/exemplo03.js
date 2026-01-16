@@ -1,0 +1,12 @@
+var lista = [];
+lista.push("arroz");
+lista.push("feijão");
+lista.push("carne");
+console.log(lista);
+lista.pop();
+console.log(lista);
+var posicao = lista.indexOf("feijão");
+lista.splice(posicao, 1);
+console.log(lista);
+lista.splice(posicao, 2);
+console.log(lista);
